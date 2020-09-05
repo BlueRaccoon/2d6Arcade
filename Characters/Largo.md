@@ -10,7 +10,7 @@
 |    8    |    1   |  12 (10) | - |
 
 
-## Skills
+## Skills 
 ||||||
 | -: | :-: | :-: | :-: | :-: |
 | <big>**❸**</big> | Athletic | --- | --- | --- |
@@ -18,7 +18,7 @@
 | <big>**❶**</big> | Will  | Presence | ??? | --- |
 
 
-## ◆ Actions
+## --- ◆ Actions ---
 
 |  | Action | Roll | Description |
 |-|-|:-:|-|
@@ -26,9 +26,9 @@
 | ![Throw](https://imgur.com/sBOrPTZ.png) | **Throw Something** | +3<br>`♣Aim` | Throw an improvised object in hand<br>*(Short Range: Hit target `Tier-1` zones away)* |
 | ![Grab](https://imgur.com/4iPdPQk.png) | **Pummel<br>Grab<br>Trip<br>Throw** | +6<br>`♣♠Athletic` | • Deal `2(2)+Tier` Damage<br>• Prevent target from Moving<br>• Knock Down target<br>• Force `Move 1` on target |
 | ![Recover](https://imgur.com/5LR4eTj.png) | **Recoup** | --- | Pull back to take a breath; Recover 3 Health<br>*(if you are not Focusing or in Close Quarters)* |
-| ![Influence](https://imgur.com/lcgrkYO.png) | **Influence** | +3 / +2<br>`♥Charm`<br>`♥Pres.`<br>`♥♦Manip.` | Attempt to influence others<br>*Attract attention (`Pre`), appear harmless (`Cha`), trick/mislead (`Man`), or other* |
+| ![Influence](https://imgur.com/lcgrkYO.png) | **Influence** | +3 / +2<br>`♥Charm`<br>`♥Pres.`<br>`♥♦Manip.` | Attempt to influence others<br>*Attract attention (`Presence`), appear harmless (`Charm`), trick/mislead (`Manipulate`), or other* |
 
-## ◇ Minor Actions
+## --- ◇ Minor Actions --- 
 
 |  | Action | Type | Description |
 |-|-|-|-|
@@ -37,7 +37,7 @@
 | ![Offhand](https://imgur.com/Yl8M4Uh.png) | **Offhand Attack** | Attack | • Make an unbalanced Attack with Disadvantage<br>*(Weapon must be 1-Handed, can only attack once this turn; empty hands can Brawl)* |
 | ![Improvise](https://imgur.com/ivypdCv.png) | **Search<br>Equip<br>Improvise** | --- | • Search adjacent Zone for hidden things (`♦Perception`)<br>• Swap out currently used equipment<br>• *Perform some bullshit not on this list* |
 
-## ↻ Reactions
+## --- ↻ Reactions ---
 
 |  | Reaction | Description |
 |-|-|-|

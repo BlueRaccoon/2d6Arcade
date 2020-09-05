@@ -1,6 +1,9 @@
 
 # Largo 
-*T0 • Medium(3) • Human (Enterprise) Boxer*
+
+| Tier 0 | Medium (Size 3) |
+| - | :- |
+| ![Largo](https://imgur.com/9BWBjEc.png) | Human (Enterprise) Boxer |
 
 ## Attributes
 |    ♣Body    |   ♠Grace   |    ♥Heart    | ♦Mind |

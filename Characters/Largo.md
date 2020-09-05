@@ -10,7 +10,7 @@
 |    8    |    1   |  12 (10) | - |
 
 
-## Skills 
+## Skills
 ||||||
 | -: | :-: | :-: | :-: | :-: |
 | <big>**❸**</big> | Athletic | --- | --- | --- |
@@ -18,15 +18,21 @@
 | <big>**❶**</big> | Will  | Presence | ??? | --- |
 
 
+## Gear
+| Item | Tier | Type | Description |
+|-|:-:|:-:|-|
+| **Your Fists** | T0 | Melee Weapon<br>(Close Range) | `♣♠Fight/Athletic`<br>2(2) Blunt dmg<br>*Unarmed* |
+| **Loose-Fitting Garb** | T1 | Light Armor | **⛨1**<br>Add ½ of Athletic to ⤩Defense |
+
 ## --- ◆ Actions ---
 
-|  | Action | Roll | Description |
-|-|-|:-:|-|
-| ![Sword](https://imgur.com/VLNPHSV.png) | **Punch** | +6<br>`♣♠Athletic` | Deal 2(2) Damage to a target in Close Quarters |
-| ![Throw](https://imgur.com/sBOrPTZ.png) | **Throw Something** | +3<br>`♣Aim` | Throw an improvised object in hand<br>*(Short Range: Hit target `Tier-1` zones away)* |
-| ![Grab](https://imgur.com/4iPdPQk.png) | **Pummel<br>Grab<br>Trip<br>Throw** | +6<br>`♣♠Athletic` | • Deal `2(2)+Tier` Damage<br>• Prevent target from Moving<br>• Knock Down target<br>• Force `Move 1` on target |
-| ![Recover](https://imgur.com/5LR4eTj.png) | **Recoup** | --- | Pull back to take a breath; Recover 3 Health<br>*(if you are not Focusing or in Close Quarters)* |
-| ![Influence](https://imgur.com/lcgrkYO.png) | **Influence** | +3 / +2<br>`♥Charm`<br>`♥Pres.`<br>`♥♦Manip.` | Attempt to influence others<br>*Attract attention (`Presence`), appear harmless (`Charm`), trick/mislead (`Manipulate`), or other* |
+|  | Action | Type | Roll | Description |
+|-|-|:-:|:-:|-|
+| ![Sword](https://imgur.com/VLNPHSV.png) | **Punch** | Close | +6<br>`♣♠Athletic` | Deal 2(2) Damage to a target in Close Quarters |
+| ![Throw](https://imgur.com/sBOrPTZ.png) | **Throw Something** | Ranged | +3<br>`♣Aim` | Throw an improvised object in hand<br>*(Short Range: Hit target `Tier-1` zones away)* |
+| ![Grab](https://imgur.com/4iPdPQk.png) | **Pummel<br>Grab<br>Trip<br>Throw** | Brawl | +6<br>`♣♠Athletic` | • Deal `2(2)+Tier` Damage<br>• Prevent target from Moving<br>• Knock Down target<br>• Force `Move 1` on target |
+| ![Recover](https://imgur.com/5LR4eTj.png) | **Recoup** | --- | --- | Pull back to take a breath; Recover 3 Health<br>*(if you are not Focusing or in Close Quarters)* |
+| ![Influence](https://imgur.com/lcgrkYO.png) | **Influence** | --- | +3 / +2<br>`♥Charm`<br>`♥Pres.`<br>`♥♦Manip.` | Attempt to influence others<br>*Attract attention (`Presence`), appear harmless (`Charm`), trick/mislead (`Manipulate`), or other* |
 
 ## --- ◇ Minor Actions --- 
 
@@ -45,14 +51,8 @@
 | ![Interrupt](https://imgur.com/jIlIjea.png) | **Interrupt** | If you have **Held your Turn**,<br>at any time you can abandon your Turn to take one ◆Action.<br>Roll opposed `♠Perception` against a target to interrupt their turn or action |
 | ![Shield](https://imgur.com/LjiLuck.png) | **Shield** | If you have a **Shield** in hand,<br>when you are attacked,<br>reduce the damage you would take *(amount based on your Shield)*.<br>Your shield may grant other effects that last for the turn it is used *(such as Cover or Defense)* |
 
-
-## Gear
-| Item | Tier | Type | Description |
-|-|:-:|:-:|-|
-| **Your Fists** | T0 | Melee Weapon<br>(Close Range) | `♣♠Fight/Athletic`<br>2(2) Blunt dmg<br>*Unarmed* |
-| **Loose-Fitting Garb** | T1 | Light Armor | **⛨1**<br>Add ½ of Athletic to ⤩Defense |
-
 ## Magic
+
 | Spell | Description |
 |:-:|-|
 | **Centering**<br>T0<br>Channel | • When taking ♣♠Strain, you can spend CHN Mana instead<br>• When spending CHN Mana, you can take ♣♠ Strain instead<br>[◇] For one roll this round, use `Channel` in place of ♣, ♠, Athletic, or Endure |

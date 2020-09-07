@@ -3,7 +3,7 @@
 
 | Tier 0 | Medium (Size 3) |
 | - | :- |
-| ![Largo](https://imgur.com/9BWBjEc.png) | *Human (Enterprise) Boxer* <br><br> Punch, pummel, smash and throw your way past all of life's problems.<br> Close In to get inside a target's reach, then Grab, Trip, and Pummel to keep them down.<br> Use Channeling Magic to rush weak foes or tank strong blows while you pummel.  |
+| ![Largo](https://imgur.com/3ENJwvm.png) | *Human (Enterprise) Boxer* <br><br> Punch, pummel, smash and throw your way past all of life's problems.<br> Close In to get inside a target's reach, then Grab, Trip, and Pummel to keep them down.<br> Use Channeling Magic to rush weak foes or tank strong blows while you pummel.  |
 
 ## Attributes
 |    ♣Body    |   ♠Grace   |    ♥Heart    | ♦Mind |

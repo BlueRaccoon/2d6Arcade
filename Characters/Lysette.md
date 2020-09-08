@@ -2,7 +2,7 @@
 
 | Tier 0 | Medium (Size 3) |
 | - | :- |
-| ![Largo](https://imgur.com/NY9xMQH.png) | *Human (Marion) Street Tough* <br><br> Sneak, Flank, and Stab your way to success.<br> Find somewhere to hide, then pick off enemies by Ambush <br> Hold your turn, wait for an enemy to be Overwhelmed (by taking damage from an ally), then jump in for an Attack and Offhand Attack  |
+| ![Largo](https://imgur.com/NY9xMQH.png) | *Human (Marion) Street Tough* <br><br> Sneak, Flank, and Stab your way to success.<br> Find somewhere to hide, then pick off enemies by Ambush <br> Take out and throw daggers at Exposed enemies<br> Hold your turn, wait for an enemy to be Overwhelmed (by taking damage from an ally), then jump in for an Attack and Offhand Attack  |
 
 ## Attributes
 |    ♣Body    |   ♠Grace   |    ♥Heart    | ♦Mind |
@@ -22,7 +22,7 @@
 | Item | Tier | Type | Description |
 |-|:-:|:-:|-|
 | **Light Blade x2** | T1 | Weapon<br>(Close/Melee) | `♠Fight`<br>3(3) Slash dmg |
-| **Dagger x3** | T1 | Weapon<br>(Close) | `♠Fight`<br>3(♠) Slash dmg <br> Throw(Short); Quickdraw |
+| **Dagger x6** | T1 | Weapon<br>(Close) | `♠Fight`<br>3(♠) Slash dmg <br> Throw(Short); Quickdraw |
 | **Unassuming Garb** | T1 | Light Armor | **⛨0**<br>Gain Advantage on Stealth rolls against targets who have not yet seen you |
 
 
@@ -30,8 +30,8 @@
 
 |  | Action | Type | Roll | Description |
 |-|-|:-:|:-:|-|
-| ![Sword](https://imgur.com/VLNPHSV.png) | **Light Blade** | Melee | +5<br>`♠Fight` | Deal 3(3) Damage to a target in Melee or Close Quarters |
-| ![Daggers](https://imgur.com/x2HbU2p.png) | **Throw Dagger** | Ranged | +5<br>`♠Aim` | Throw a dagger for 3(3) damage<br>*(Short Range: Hit target `Tier-1` zones away)* |
+| ![Sword](https://imgur.com/VLNPHSV.png) | **Light Blade** | Melee | +5<br>`♠Fight` | Deal 3(3) Damage to a target in Melee or Close Quarters. <br> Advantage vs *Overwhelmed* (target has lost Health from a different source this round) |
+| ![Daggers](https://imgur.com/x2HbU2p.png) | **Throw Dagger** | Ranged | +5<br>`♠Aim` | Throw a dagger for 3(3) damage<br>*(Short Range: Hit target `Tier-1` zones away)*<br>Advantage if the target is *Exposed* (Alone in zone without cover) |
 | ![Stealth](https://imgur.com/rA6Nh3z.png) | **Ambush** | Melee | +6<br>`♠Stealth` | While Hiding, roll `♠Stealth vs ♠Perception` to attack<br>On success, deal an extra Crit of Damage (plus normal attack damage)<br>Target can't use Shield or similar reactions. |
 | ![Grab](https://imgur.com/4iPdPQk.png) | **Pummel<br>Grab<br>Trip<br>Throw** | Brawl | +3<br>`♣♠Athletic` | • Deal `2(2)+Tier` Damage<br>• Prevent target from Moving<br>• Knock Down target<br>• Force `Move 1` on target |
 | ![Recover](https://imgur.com/5LR4eTj.png) | **Recoup** | --- | --- | Pull back to take a breath; Recover 3 Health<br>*(if you are not Focusing or in Close Quarters)* |

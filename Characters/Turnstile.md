@@ -37,8 +37,8 @@
 
 |  | Action | Type | Roll | Description |
 |-|-|:-:|:-:|-|
-| ![Sword](https://imgur.com/JhsjzXm.png) | **Bite** | Close | +6<br>`♣♠Athletic` | Deal 3(3) Damage to a target in Close Quarters |
-| ![Grab](https://imgur.com/4iPdPQk.png) | **Pummel<br>Grab<br>Trip<br>Throw** | Brawl | +6<br>`♣♠Athletic` | • Deal `3(3)+Tier` Damage<br>• Prevent target from Moving<br>• Knock Down target<br>• Force `Move 1` on target |
+| ![Sword](https://imgur.com/JhsjzXm.png) | **Bite** | Close | +4<br>`♣♠Athletic` | Deal 3(3) Damage to a target in Close Quarters |
+| ![Grab](https://imgur.com/4iPdPQk.png) | **Pummel<br>Grab<br>Trip<br>Throw** | Brawl | +4<br>`♣♠Athletic` | • Deal `3(3)+Tier` Damage<br>• Prevent target from Moving<br>• Knock Down target<br>• Force `Move 1` on target |
 | ![Recover](https://imgur.com/5LR4eTj.png) | **Recoup** | --- | --- | Pull back to take a breath; Recover 3 Health<br>*(if you are not Focusing or in Close Quarters)* |
 | ![Influence](https://imgur.com/lcgrkYO.png) | **Influence** | --- | +3 / +2<br>`♥Charm`<br>`♥Pres.`<br>`♥♦Manip.` | Attempt to influence others<br>*Attract attention (`Presence`), appear harmless (`Charm`), trick/mislead (`Manipulate`), or other* |
 

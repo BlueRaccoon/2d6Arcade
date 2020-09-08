@@ -2,7 +2,7 @@
 
 | Tier 0 | Medium (Size 3) |
 | - | :- |
-| ![Luis](https://imgur.com/1c6iR4H.png) | *Human (Costa) Desperado* <br><br> Dive out with two pistols blazing  |
+| ![Luis](https://imgur.com/1c6iR4H.png) | *Human (Costa) Desperado* <br><br> Dive out with two pistols blazing.<br>Open fire with both on Exposed targets, then duck  away to reload.<br> Or keep a Hatchet in hand to threaten enemies at any range. <br> Remember to take any spare moment to Reload, Recoup, and Transmute your poncho.|
 
 ## Attributes
 |    ♣Body    |   ♠Grace   |    ♥Heart    | ♦Mind |

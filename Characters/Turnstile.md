@@ -65,6 +65,6 @@
 |-|-|
 | **Magic Hand**<br>T0<br>Solidic | **(◆f)** Create a floating hand-sized shape that you control. It can Move and Interact with an object (lifting up to 5lb). You can have it Move and Interact each round. |
 | **Barrier**<br>T1<br>Solidic | **(◆f)** Encase yourself or an ally in your area in magic plating, setting Armor to `Tier+1`<br>**(◆f)** Create a solid magic bubble over an area (up to `Tier` areas away). It can take up to `Skill x Tier` damage before breaking. |
-| **Magic Arms**<br>T2<br>Solidic | **(◆f)** Create a floating magical weapon. While it is maintained, As a Minor Action each round, you can have it Move1 and make a Melee Attack<br>Attack Bonus = `Skill+Tier`; Damage = `Skill(Tier+1)` |
+| **Magic Arms**<br>T2<br>Solidic | **(◆f)** Create a floating magical weapon. While it is maintained, As a Minor Action  once each round, you can have it Move 1 and Brawl or make a Melee Attack<br>Attack Bonus = `Skill+Tier`; Damage = `Skill(Tier+1)`; Range=Melee/Close; <br> *If attacked, it has `Skill+Tier` Health and reduces physical damage taken by 3* |
 |  |  |
 

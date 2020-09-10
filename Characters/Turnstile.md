@@ -68,3 +68,22 @@
 | **Magic Arms**<br>T2<br>Solidic | **(◆f)** Create a floating magical weapon. While it is maintained, As a Minor Action  once each round, you can have it Move 1 and Brawl or make a Melee Attack<br>Attack Bonus = `Skill+Tier`; Damage = `Skill(Tier+1)`; Range=Melee/Close; <br> *If attacked, it has `Skill+Tier` Health and reduces physical damage taken by 3* |
 |  |  |
 
+> --- **Focus** ---  
+> Spells marked with 'f' have ongoing effects that require Focus to maintain.  
+>  • You can dismiss a Focused effect at will  
+>  • While Focusing, you can not Rest or use `[◆Recoup]`  
+>  • To focus on multiple effects, when adding a new effect  you must succeed a `♦Will` Save against the number of effects already held  
+>  • When Injured or Disrupted, you must succeed a `♥Will` Save (T1+number of Effects) or lose your Focus  
+>   • Focusing on an effect for hours at a time may require a ♥♦Will Save to avoid taking Strain (GM Discretion based on circumstance)  
+
+> **--- Armor  ---**  
+> Armor helps protect against Damage. When hit, you can spend Armor to reduce damage taken by 3 per point spent.  
+> • Armor can be recovered by spending a few minutes re-adjusting your equipment and tying your shoelaces.  
+> • Armor is ineffective against Mental, Pain, and Fall Damage.  
+
+> **--- Cover ---**  
+> Cover helps protect from Ranged and Blast attacks. While you have Cover, the difficulty of Ranged Attacks against you increases by 1, and you take 3 less damage from Blast Attacks.  
+> • When you Take Cover, you keep Cover until Moving  
+
+> **--- Move X ---**  
+> When an ability says "Move X" *(Move1, Move2, etc.)* you can take several consecutive Move Actions.  
